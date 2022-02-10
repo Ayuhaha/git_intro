@@ -1,9 +1,6 @@
 version_1
-<<<<<<< HEAD
-version_1.03
-=======
 version_1.04
->>>>>>> test
+2
 3
 4
 5
